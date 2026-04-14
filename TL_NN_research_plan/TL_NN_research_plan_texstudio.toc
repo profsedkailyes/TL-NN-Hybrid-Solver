@@ -1,0 +1,12 @@
+\contentsline {section}{\numberline {1}Strategic Overview}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}The Idea in One Paragraph}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Why This Paper Is the Right First Step}{2}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Target Journal}{3}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Time Budget}{3}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}Paper Structure}{4}{subsection.1.5}%
+\contentsline {section}{\numberline {2}Month~1: Learning and Implementation}{5}{section.2}%
+\contentsline {section}{\numberline {3}Month~2: Writing and Revision}{14}{section.3}%
+\contentsline {section}{\numberline {4}Month~3: Waiting, Responding, and Next Steps}{20}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Understanding the Review Timeline}{20}{subsection.4.1}%
+\contentsline {section}{\numberline {5}Non-Negotiable Rules}{23}{section.5}%
+\contentsline {section}{\numberline {6}Summary Timeline}{24}{section.6}%
